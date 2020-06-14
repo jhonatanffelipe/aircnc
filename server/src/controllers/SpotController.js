@@ -1,4 +1,3 @@
-const { store } = require("./SessionController");
 const Spot = require('../models/Spot');
 const User = require("../models/User");
 
