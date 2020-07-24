@@ -1,4 +1,7 @@
-# Aircnc
+<img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/logo.png" height="25px"/> 
+<h1> Aircnc </h1> 
+
+
 Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projeto foi denvolvido com a stack NodeJS, React e React Native.
 
 A ideia do projeto é desenvolver uma aplicação onde as empresas possam oferecer espaços em suas empresas para desesenvolvedores qua atuam com as mesmas tecnologias utilizarem. O intúito é que com isso possa haver uma ponte entre empresa e desenvolvedores. 
@@ -13,12 +16,15 @@ Foi desenvolvida uma API REST desenvolvida em NodeJS utilizando Javascript. O Ba
 - Foi desenvolvisa em Javascript utilizando o framework ReactJS. 
 - Possui comunicação em tempo real utilizando socket.io, que permite receber e responder em tempo real as solicitações de agendamentos de spots.
 
+<img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/web.png" height="350px" />
+
 ## Mobile
 
 - A Aplicação mobile permite que o desenvolvedor filtre pelas tecnologias e encontre spots disponíveis;
 - O desenvolvimento da aplicação mobile foi realizado utilizando a ferramenta Expo, desenvolvida em Javascript utilizando o framework React Native.
 - Utiliza comunicação em tempo real com socke.io para realizar as solicitação de agendamento para os spots.
 
+<img alt="Ecoleta" src="https://github.com/jhonatanffelipe/aircnc/blob/master/readmeAssets/mobile.jpeg"  height="350px" />
 
 ## Como Executar a aplicação?
 
