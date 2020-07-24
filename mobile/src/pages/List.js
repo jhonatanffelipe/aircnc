@@ -1,12 +1,19 @@
 import React, { useState, useEffect } from 'react';
-import socketio, { Socket } from 'socket.io-client';
-import { SafeAreaView, ScrollView, AsyncStorage, Image, StyleSheet, Platform, Alert } from 'react-native';
+import { withNavigation } from 'react-navigation';
+
+import socketio from 'socket.io-client';
+import { SafeAreaView, ScrollView, AsyncStorage, Image, StyleSheet, Platform, Alert, Text, View } from 'react-native';
 
 import SpotList from '../components/SpotList';
 import logo from '../assets/logo.png';
+import { TouchableOpacity } from 'react-native-gesture-handler';
 
-export default function List() {
+export default function List({ navigation }) {
     const [techs, setTechs] = useState([]);
+
+    function goToLogin() {
+        navigation.navigate('Login');
+    }
 
     useEffect(() => {
         AsyncStorage.getItem('user').then(user_id => {
@@ -29,7 +36,12 @@ export default function List() {
 
     return (
         <SafeAreaView style={styles.container}>
-            <Image style={styles.logo} source={logo} />
+            <View style={styles.header}>
+                <Image style={styles.logo} source={logo} />
+                <TouchableOpacity onPress={goToLogin}>
+                    <Text style={styles.back}>Voltar</Text>
+                </TouchableOpacity>
+            </View>
 
             <ScrollView>
                 {techs.map(tech => <SpotList key={tech} tech={tech} />)}
@@ -52,5 +64,17 @@ const styles = StyleSheet.create({
         resizeMode: "contain",
         alignSelf: "center",
         marginTop: 25,
+    },
+
+    header: {
+        paddingRight: 15,
+        flexDirection: "row",
+        alignItems: "flex-start",
+        justifyContent: "space-between",
+    },
+
+    back: {
+        marginTop: 33,
+        color: '#444',
     }
 });
