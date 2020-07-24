@@ -1,10 +1,9 @@
-<img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/logo.png" height="25px"/> 
 <h1> Aircnc </h1> 
 
 
 Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projeto foi denvolvido com a stack NodeJS, React e React Native.
 
-A ideia do projeto é desenvolver uma aplicação onde as empresas possam oferecer espaços em suas empresas para desesenvolvedores qua atuam com as mesmas tecnologias utilizarem. O intúito é que com isso possa haver uma ponte entre empresa e desenvolvedores. 
+A ideia do projeto é desenvolver uma aplicação baseada no Aircn com um conceito diferente. Empresas oferecem espaços para desesenvolvedores qua atuam com as mesmas tecnologias. O intúito é que com isso possa haver uma ponte entre empresa e desenvolvedores. 
 
 ## Backend
 
