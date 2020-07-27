@@ -17,7 +17,7 @@ Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projet
   <a href="#gear-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arrow_forward-como-executar-a-aplicação">Executar a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrow_forward-executar-a-aplicação">Executar a aplicação</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
