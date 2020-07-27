@@ -1,14 +1,33 @@
-# Aircnc 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/logo.png"/>
+</p>
 
 Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projeto foi denvolvido com a stack NodeJS, React e React Native.
 
+<p align="center">
+   <img alt="Tecnologias" src="https://img.shields.io/github/languages/count/jhonatanffelipe/aircnc?color=f05a5b">
+   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/jhonatanffelipe/aircnc?color=f05a5b">
+   <img alt="Ultimo commit no Github" src="https://img.shields.io/github/last-commit/jhonatanffelipe/aircnc?color=f05a5b">
+   <img alt="Criado por" src="https://img.shields.io/badge/made%20by-jhonatanffelipe-%20?color=f05a5b">
+   <img alt="Linguagens mais usadas no programa" src="https://img.shields.io/github/languages/top/jhonatanffelipe/aircnc?color=f05a5b">
+</p> 
+
+<p align="center">
+  <a href="#rocket-sobre-o-projeto">Sobre o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+
+## :rocket: Sobre o projeto
 A ideia do projeto é desenvolver uma aplicação baseada no Aircn com um conceito diferente. Empresas oferecem espaços para desesenvolvedores qua atuam com as mesmas tecnologias. O intúito é que com isso possa haver uma ponte entre empresa e desenvolvedores. 
 
-## Backend
+## :gear: Backend
 
 Foi desenvolvida uma API REST desenvolvida em NodeJS utilizando Javascript. O Banco de dados utilizado foi o MongoBD;
 
-## Frontend Web
+## :computer: Frontend
 
 - A Aplicação web tem por responsabilidade permitir que as empresas cadastre spots que serão utilizados pelos desenvolvedores externos que possuam interesse na mesma tecnologia trabalhada na empresa. 
 - Foi desenvolvisa em Javascript utilizando o framework ReactJS. 
@@ -16,7 +35,7 @@ Foi desenvolvida uma API REST desenvolvida em NodeJS utilizando Javascript. O Ba
 
 <img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/web.png" height="350px" />
 
-## Mobile
+## :iphone: Mobile
 
 - A Aplicação mobile permite que o desenvolvedor filtre pelas tecnologias e encontre spots disponíveis;
 - O desenvolvimento da aplicação mobile foi realizado utilizando a ferramenta Expo, desenvolvida em Javascript utilizando o framework React Native.
