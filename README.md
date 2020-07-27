@@ -17,7 +17,7 @@ Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projet
   <a href="#gear-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#minidisc-como-executar-a-aplicação">Executar a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#arrow_forward-como-executar-a-aplicação">Executar a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -81,7 +81,7 @@ Uma API REST desenvolvida em NodeJS. É responsável por servir os dados para as
 -  [Axios](https://www.npmjs.com/package/axios)
 
 
-# :minidisc: Como executar a aplicação?
+# :arrow_forward: Eexecutar a aplicação
 
 - O primeiro passo é clonar o repositório nossa base;
 - Em seguida dentro de cada um dos diretórios server, web e mobile iremos executar no terminal o comando `yarn`, para baixar as dependências de nossas aplicação;
