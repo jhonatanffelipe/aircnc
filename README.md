@@ -17,33 +17,71 @@ Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projet
   <a href="#gear-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iphone-mobile">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#minidisc-como-executar-a-aplicação">Executar a aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
 ## :rocket: Sobre o projeto
 A ideia do projeto é desenvolver uma aplicação baseada no Aircn com um conceito diferente. Empresas oferecem espaços para desesenvolvedores qua atuam com as mesmas tecnologias. O intúito é que com isso possa haver uma ponte entre empresa e desenvolvedores. 
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/aircnc.png" width="800px"/>
+</p>
+
 ## :gear: Backend
 
-Foi desenvolvida uma API REST desenvolvida em NodeJS utilizando Javascript. O Banco de dados utilizado foi o MongoBD;
+#### Sobre
+Uma API REST desenvolvida em NodeJS. É responsável por servir os dados para as aplicações web e mobile;
+
+#### Tecnologia utilizadas na construção do Backend
+
+-  [VS Code](https://code.visualstudio.com/)
+-  [Node.js](https://nodejs.org/)
+-  [Express](https://expressjs.com/)
+-  [Javascript](https://www.typescriptlang.org/)
+-  [MongoDB](https://www.mongodb.com/)
+-  [Mogoose](https://mongoosejs.com/docs/)
+-  [Multer](https://github.com/expressjs/multer)
+-  [Cors](https://www.npmjs.com/package/cors)
+-  [Socket.io](https://socket.io/)
 
 ## :computer: Frontend
 
+#### Sobre
 - A Aplicação web tem por responsabilidade permitir que as empresas cadastre spots que serão utilizados pelos desenvolvedores externos que possuam interesse na mesma tecnologia trabalhada na empresa. 
-- Foi desenvolvisa em Javascript utilizando o framework ReactJS. 
 - Possui comunicação em tempo real utilizando socket.io, que permite receber e responder em tempo real as solicitações de agendamentos de spots.
 
-<img alt="Ecoleta" src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/web.png" height="350px" />
+#### Tecnologia utilizadas na construção do Frontend
+
+-  [VS Code](https://code.visualstudio.com/)
+-  [Node.js](https://nodejs.org/)
+-  [Javascript](https://www.typescriptlang.org/)
+-  [Socket.io](https://socket.io/)
+-  [React](https://pt-br.reactjs.org/)
+-  [React-router-dom](https://reactrouter.com/web/guides/quick-start)
+-  [Axios](https://www.npmjs.com/package/axios)
 
 ## :iphone: Mobile
 
+#### Sobre
 - A Aplicação mobile permite que o desenvolvedor filtre pelas tecnologias e encontre spots disponíveis;
-- O desenvolvimento da aplicação mobile foi realizado utilizando a ferramenta Expo, desenvolvida em Javascript utilizando o framework React Native.
 - Utiliza comunicação em tempo real com socke.io para realizar as solicitação de agendamento para os spots.
 
-<img alt="Ecoleta" src="https://github.com/jhonatanffelipe/aircnc/blob/master/readmeAssets/mobile.jpeg"  height="350px" />
 
-## Como Executar a aplicação?
+
+#### Tecnologia utilizadas na construção da aplicação Mobile
+
+-  [VS Code](https://code.visualstudio.com/)
+-  [Node.js](https://nodejs.org/)
+-  [Javascript](https://www.typescriptlang.org/)
+-  [Socket.io](https://socket.io/)
+-  [React](https://pt-br.reactjs.org/)
+-  [React Native](https://reactnative.dev/)
+-  [React-navigation](https://reactnavigation.org/)
+-  [Axios](https://www.npmjs.com/package/axios)
+
+
+# :minidisc: Como executar a aplicação?
 
 - O primeiro passo é clonar o repositório nossa base;
 - Em seguida dentro de cada um dos diretórios server, web e mobile iremos executar no terminal o comando `yarn`, para baixar as dependências de nossas aplicação;
