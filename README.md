@@ -38,7 +38,7 @@ Uma API REST desenvolvida em NodeJS. É responsável por servir os dados para as
 -  [VS Code](https://code.visualstudio.com/)
 -  [Node.js](https://nodejs.org/)
 -  [Express](https://expressjs.com/)
--  [Javascript](https://www.typescriptlang.org/)
+-  [Javascript](https://www.javascript.com/)
 -  [MongoDB](https://www.mongodb.com/)
 -  [Mogoose](https://mongoosejs.com/docs/)
 -  [Multer](https://github.com/expressjs/multer)
@@ -55,7 +55,7 @@ Uma API REST desenvolvida em NodeJS. É responsável por servir os dados para as
 
 -  [VS Code](https://code.visualstudio.com/)
 -  [Node.js](https://nodejs.org/)
--  [Javascript](https://www.typescriptlang.org/)
+-  [Javascript](https://www.javascript.com/)
 -  [Socket.io](https://socket.io/)
 -  [React](https://pt-br.reactjs.org/)
 -  [React-router-dom](https://reactrouter.com/web/guides/quick-start)
@@ -73,8 +73,9 @@ Uma API REST desenvolvida em NodeJS. É responsável por servir os dados para as
 
 -  [VS Code](https://code.visualstudio.com/)
 -  [Node.js](https://nodejs.org/)
--  [Javascript](https://www.typescriptlang.org/)
+-  [Javascript](https://www.javascript.com/)
 -  [Socket.io](https://socket.io/)
+-  [Expo](https://expo.io/)
 -  [React](https://pt-br.reactjs.org/)
 -  [React Native](https://reactnative.dev/)
 -  [React-navigation](https://reactnavigation.org/)
