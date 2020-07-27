@@ -22,7 +22,7 @@ Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projet
 
 
 ## :rocket: Sobre o projeto
-A ideia do projeto é desenvolver uma aplicação baseada no Aircn com um conceito diferente. Empresas oferecem espaços para desesenvolvedores qua atuam com as mesmas tecnologias. O intúito é que com isso possa haver uma ponte entre empresa e desenvolvedores. 
+A ideia do projeto é desenvolver uma aplicação baseada no Airbnb com um conceito diferente. Empresas oferecem espaços para desenvolvedores qua atuam com as mesmas tecnologias. O intúito é que com isso possa haver uma ponte entre empresa e desenvolvedores. 
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/aircnc.png" width="800px"/>
