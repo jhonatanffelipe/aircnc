@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/logo.png"/>
+    <img src="https://raw.githubusercontent.com/jhonatanffelipe/aircnc/master/readmeAssets/logo2.png"/>
 </p>
 
 Projeto desenvolvido ao longo da Semana OmniStack 09 - Rocketseat. Todo o projeto foi denvolvido com a stack NodeJS, React e React Native.
