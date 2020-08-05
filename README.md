@@ -54,7 +54,6 @@ Uma API REST desenvolvida em NodeJS. É responsável por servir os dados para as
 #### Tecnologia utilizadas na construção do Frontend
 
 -  [VS Code](https://code.visualstudio.com/)
--  [Node.js](https://nodejs.org/)
 -  [Javascript](https://www.javascript.com/)
 -  [Socket.io](https://socket.io/)
 -  [React](https://pt-br.reactjs.org/)
@@ -72,7 +71,6 @@ Uma API REST desenvolvida em NodeJS. É responsável por servir os dados para as
 #### Tecnologia utilizadas na construção da aplicação Mobile
 
 -  [VS Code](https://code.visualstudio.com/)
--  [Node.js](https://nodejs.org/)
 -  [Javascript](https://www.javascript.com/)
 -  [Socket.io](https://socket.io/)
 -  [Expo](https://expo.io/)
